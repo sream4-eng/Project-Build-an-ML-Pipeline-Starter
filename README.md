@@ -1,3 +1,9 @@
+#NYC Airbnb ML Pipeline
+##Porject links:
+- W&B Public Project:
+  https://wandb.ai/sream4-western-governors-university/nyc_airbnb
+- GitHub Repository:
+  https://github.com/sream4-eng/Project-Build-an-ML-Pipeline-Starter
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
